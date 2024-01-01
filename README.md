@@ -13,3 +13,7 @@ Image Credits:
 - Image of Mark Zuckerberg from https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/330px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg
 
 - Image of Sundar Pichai from https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sundar_pichai.png/330px-Sundar_pichai.png
+
+# Demo Image
+
+![Screenshot (9)](https://github.com/ShinMinKhant/TED-Talks/assets/133580286/21bc06db-1e00-4e22-b306-00df3a9e0a44)
